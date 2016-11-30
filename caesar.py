@@ -20,4 +20,4 @@ def decrypt_ceasar(ciphertext):
 
 
 
-print(decrypt_ceasar(input()))
+print(encrypt_ceasar(input()))
